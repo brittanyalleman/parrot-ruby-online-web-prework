@@ -1,3 +1,3 @@
-def a_parrot_says
-  puts "squawk"
+def parrot
+a_parrot_says = "squawk"
 end
