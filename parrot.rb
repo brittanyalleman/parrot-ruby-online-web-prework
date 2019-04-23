@@ -1,3 +1,3 @@
-def parrot
-puts a_parrot_says = "squawk"
+describe parrot do
+it "squawk"
 end
